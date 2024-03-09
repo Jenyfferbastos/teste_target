@@ -1,0 +1,23 @@
+{
+  "name": "teste_target",
+  "version": "1.0.0",
+  "description": "Repositório destinado ao desenvolvimento do teste do processo seletivo a vaga de estágio em desenvolvimento da Target",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/verificaFibonacci.js && node src/inverteString.js"
+ 
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jenyfferbastos/teste_target.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jenyfferbastos/teste_target/issues"
+  },
+  "homepage": "https://github.com/Jenyfferbastos/teste_target#readme"
+
+}
